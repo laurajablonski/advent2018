@@ -978,7 +978,6 @@ do {
   } else {
     i = 0;
   }
-  console.log('Frequency Sum: '+ frequencySum.toString());
 } while (!(frequencyDict[frequencySum.toString()] == 1));
 
 document.writeln('Frequency Repeat: '+ frequencySum.toString());
