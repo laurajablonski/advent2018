@@ -45,8 +45,6 @@ var result = {
    commonLetters: "",
 };
 
-var i;
-var j;
 var k;
 var lengthTest;
 var commonLetterTest;
